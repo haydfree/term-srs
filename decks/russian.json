@@ -1,263 +1,263 @@
 [
   {
-    "front": "\u0410\u0430",
-    "back": "\u0410 \u2014 a (ah), example: \u0430\u043f\u0442\u0435\u043a\u0430 (apteka) \u2014 apple",
+    "front": "Аа",
+    "back": "А — a (ah), example: аптека (apteka) — apple",
     "next_review_date": "2025-08-15",
     "repetitions": 0,
     "interval": 1,
     "ease_factor": 2.5
   },
   {
-    "front": "\u0411\u0431",
-    "back": "\u0411 \u2014 be (b), example: \u0431\u0440\u0430\u0442 (brat) \u2014 bat",
+    "front": "Бб",
+    "back": "Б — be (b), example: брат (brat) — bat",
     "next_review_date": "2025-08-15",
     "repetitions": 0,
     "interval": 1,
     "ease_factor": 2.5
   },
   {
-    "front": "\u0412\u0432",
-    "back": "\u0412 \u2014 ve (v), example: \u0432\u043e\u0434\u0430 (voda) \u2014 vine",
+    "front": "Вв",
+    "back": "В — ve (v), example: вода (voda) — vine",
     "next_review_date": "2025-08-15",
     "repetitions": 0,
     "interval": 1,
     "ease_factor": 2.5
   },
   {
-    "front": "\u0413\u0433",
-    "back": "\u0413 \u2014 ge (g), example: \u0433\u043e\u0440\u043e\u0434 (gorod) \u2014 goat",
+    "front": "Гг",
+    "back": "Г — ge (g), example: город (gorod) — goat",
     "next_review_date": "2025-08-15",
     "repetitions": 0,
     "interval": 1,
     "ease_factor": 2.5
   },
   {
-    "front": "\u0414\u0434",
-    "back": "\u0414 \u2014 de (d), example: \u0434\u043e\u043c (dom) \u2014 dog",
+    "front": "Дд",
+    "back": "Д — de (d), example: дом (dom) — dog",
     "next_review_date": "2025-08-15",
     "repetitions": 0,
     "interval": 1,
     "ease_factor": 2.5
   },
   {
-    "front": "\u0415\u0435",
-    "back": "\u0415 \u2014 ye (ye), example: \u0435\u0441\u0442\u044c (yest') \u2014 yes",
+    "front": "Ее",
+    "back": "Е — ye (ye), example: есть (yest') — yes",
     "next_review_date": "2025-08-15",
     "repetitions": 0,
     "interval": 1,
     "ease_factor": 2.5
   },
   {
-    "front": "\u0401\u0451",
-    "back": "\u0401 \u2014 yo (yo), example: \u0451\u043b\u043a\u0430 (yolka) \u2014 yonder",
+    "front": "Ёё",
+    "back": "Ё — yo (yo), example: ёлка (yolka) — yonder",
     "next_review_date": "2025-08-15",
     "repetitions": 0,
     "interval": 1,
     "ease_factor": 2.5
   },
   {
-    "front": "\u0416\u0436",
-    "back": "\u0416 \u2014 zhe (zh), example: \u0436\u0443\u0440\u043d\u0430\u043b (zhurnal) \u2014 measure",
+    "front": "Жж",
+    "back": "Ж — zhe (zh), example: журнал (zhurnal) — measure",
     "next_review_date": "2025-08-15",
     "repetitions": 0,
     "interval": 1,
     "ease_factor": 2.5
   },
   {
-    "front": "\u0417\u0437",
-    "back": "\u0417 \u2014 ze (z), example: \u0437\u0438\u043c\u0430 (zima) \u2014 zoo",
+    "front": "Зз",
+    "back": "З — ze (z), example: зима (zima) — zoo",
     "next_review_date": "2025-08-15",
     "repetitions": 0,
     "interval": 1,
     "ease_factor": 2.5
   },
   {
-    "front": "\u0418\u0438",
-    "back": "\u0418 \u2014 i (ee), example: \u0438\u0434\u0451\u0442 (idyot) \u2014 see",
+    "front": "Ии",
+    "back": "И — i (ee), example: идёт (idyot) — see",
     "next_review_date": "2025-08-15",
     "repetitions": 0,
     "interval": 1,
     "ease_factor": 2.5
   },
   {
-    "front": "\u0419\u0439",
-    "back": "\u0419 \u2014 short i (y), example: \u0439\u043e\u0433\u0443\u0440\u0442 (yogurt) \u2014 boy",
+    "front": "Йй",
+    "back": "Й — short i (y), example: йогурт (yogurt) — boy",
     "next_review_date": "2025-08-15",
     "repetitions": 0,
     "interval": 1,
     "ease_factor": 2.5
   },
   {
-    "front": "\u041a\u043a",
-    "back": "\u041a \u2014 ka (k), example: \u043a\u043d\u0438\u0433\u0430 (kniga) \u2014 cat",
+    "front": "Кк",
+    "back": "К — ka (k), example: книга (kniga) — cat",
     "next_review_date": "2025-08-15",
     "repetitions": 0,
     "interval": 1,
     "ease_factor": 2.5
   },
   {
-    "front": "\u041b\u043b",
-    "back": "\u041b \u2014 el (l), example: \u043b\u0430\u043c\u043f\u0430 (lampa) \u2014 lamp",
+    "front": "Лл",
+    "back": "Л — el (l), example: лампа (lampa) — lamp",
     "next_review_date": "2025-08-15",
     "repetitions": 0,
     "interval": 1,
     "ease_factor": 2.5
   },
   {
-    "front": "\u041c\u043c",
-    "back": "\u041c \u2014 em (m), example: \u043c\u0430\u043c\u0430 (mama) \u2014 mother",
+    "front": "Мм",
+    "back": "М — em (m), example: мама (mama) — mother",
     "next_review_date": "2025-08-15",
     "repetitions": 0,
     "interval": 1,
     "ease_factor": 2.5
   },
   {
-    "front": "\u041d\u043d",
-    "back": "\u041d \u2014 en (n), example: \u043d\u043e\u0441 (nos) \u2014 nose",
+    "front": "Нн",
+    "back": "Н — en (n), example: нос (nos) — nose",
     "next_review_date": "2025-08-15",
     "repetitions": 0,
     "interval": 1,
     "ease_factor": 2.5
   },
   {
-    "front": "\u041e\u043e",
-    "back": "\u041e \u2014 o (o), example: \u043e\u043a\u043d\u043e (okno) \u2014 more",
+    "front": "Оо",
+    "back": "О — o (o), example: окно (okno) — more",
     "next_review_date": "2025-08-15",
     "repetitions": 0,
     "interval": 1,
     "ease_factor": 2.5
   },
   {
-    "front": "\u041f\u043f",
-    "back": "\u041f \u2014 pe (p), example: \u043f\u0438\u0432\u043e (pivo) \u2014 pen",
+    "front": "Пп",
+    "back": "П — pe (p), example: пиво (pivo) — pen",
     "next_review_date": "2025-08-15",
     "repetitions": 0,
     "interval": 1,
     "ease_factor": 2.5
   },
   {
-    "front": "\u0420\u0440",
-    "back": "\u0420 \u2014 er (r), example: \u0440\u0435\u043a\u0430 (reka) \u2014 red",
+    "front": "Рр",
+    "back": "Р — er (r), example: река (reka) — red",
     "next_review_date": "2025-08-15",
     "repetitions": 0,
     "interval": 1,
     "ease_factor": 2.5
   },
   {
-    "front": "\u0421\u0441",
-    "back": "\u0421 \u2014 es (s), example: \u0441\u043e\u043b\u043d\u0446\u0435 (solntse) \u2014 sun",
-    "next_review_date": "2025-08-16",
-    "repetitions": 0,
-    "interval": 1,
-    "ease_factor": 1.7000000000000002
-  },
-  {
-    "front": "\u0422\u0442",
-    "back": "\u0422 \u2014 te (t), example: \u0442\u043e\u0440\u0442 (tort) \u2014 top",
+    "front": "Сс",
+    "back": "С — es (s), example: солнце (solntse) — sun",
     "next_review_date": "2025-08-15",
     "repetitions": 0,
     "interval": 1,
     "ease_factor": 2.5
   },
   {
-    "front": "\u0423\u0443",
-    "back": "\u0423 \u2014 u (oo), example: \u0443\u0442\u043a\u0430 (utka) \u2014 boot",
+    "front": "Тт",
+    "back": "Т — te (t), example: торт (tort) — top",
     "next_review_date": "2025-08-15",
     "repetitions": 0,
     "interval": 1,
     "ease_factor": 2.5
   },
   {
-    "front": "\u0424\u0444",
-    "back": "\u0424 \u2014 ef (f), example: \u0444\u043e\u0442\u043e (foto) \u2014 fun",
+    "front": "Уу",
+    "back": "У — u (oo), example: утка (utka) — boot",
     "next_review_date": "2025-08-15",
     "repetitions": 0,
     "interval": 1,
     "ease_factor": 2.5
   },
   {
-    "front": "\u0425\u0445",
-    "back": "\u0425 \u2014 kha (kh), example: \u0445\u043b\u0435\u0431 (khleb) \u2014 loch",
+    "front": "Фф",
+    "back": "Ф — ef (f), example: фото (foto) — fun",
     "next_review_date": "2025-08-15",
     "repetitions": 0,
     "interval": 1,
     "ease_factor": 2.5
   },
   {
-    "front": "\u0426\u0446",
-    "back": "\u0426 \u2014 tse (ts), example: \u0446\u0432\u0435\u0442 (tsvet) \u2014 cats",
+    "front": "Хх",
+    "back": "Х — kha (kh), example: хлеб (khleb) — loch",
     "next_review_date": "2025-08-15",
     "repetitions": 0,
     "interval": 1,
     "ease_factor": 2.5
   },
   {
-    "front": "\u0427\u0447",
-    "back": "\u0427 \u2014 che (ch), example: \u0447\u0430\u0439 (chay) \u2014 chair",
+    "front": "Цц",
+    "back": "Ц — tse (ts), example: цвет (tsvet) — cats",
     "next_review_date": "2025-08-15",
     "repetitions": 0,
     "interval": 1,
     "ease_factor": 2.5
   },
   {
-    "front": "\u0428\u0448",
-    "back": "\u0428 \u2014 sha (sh), example: \u0448\u043a\u043e\u043b\u0430 (shkola) \u2014 shop",
+    "front": "Чч",
+    "back": "Ч — che (ch), example: чай (chay) — chair",
     "next_review_date": "2025-08-15",
     "repetitions": 0,
     "interval": 1,
     "ease_factor": 2.5
   },
   {
-    "front": "\u0429\u0449",
-    "back": "\u0429 \u2014 shcha (shch), example: \u0449\u0443\u043a\u0430 (shchuka) \u2014 fresh cheese",
+    "front": "Шш",
+    "back": "Ш — sha (sh), example: школа (shkola) — shop",
     "next_review_date": "2025-08-15",
     "repetitions": 0,
     "interval": 1,
     "ease_factor": 2.5
   },
   {
-    "front": "\u042a\u044a",
-    "back": "\u042a \u2014 hard sign (\u2019), example: \u043e\u0431\u044a\u0451\u043c (obyom) \u2014 [no English equivalent]",
+    "front": "Щщ",
+    "back": "Щ — shcha (shch), example: щука (shchuka) — fresh cheese",
     "next_review_date": "2025-08-15",
     "repetitions": 0,
     "interval": 1,
     "ease_factor": 2.5
   },
   {
-    "front": "\u042b\u044b",
-    "back": "\u042b \u2014 y (i), example: \u0441\u044b\u0440\u044b (syry) \u2014 ill",
+    "front": "Ъъ",
+    "back": "Ъ — hard sign (’), example: объём (obyom) — [no English equivalent]",
     "next_review_date": "2025-08-15",
     "repetitions": 0,
     "interval": 1,
     "ease_factor": 2.5
   },
   {
-    "front": "\u042c\u044c",
-    "back": "\u042c \u2014 soft sign (\u2019), example: \u0441\u043e\u043b\u044c (sol\u2019) \u2014 [no English equivalent]",
+    "front": "Ыы",
+    "back": "Ы — y (i), example: сыры (syry) — ill",
     "next_review_date": "2025-08-15",
     "repetitions": 0,
     "interval": 1,
     "ease_factor": 2.5
   },
   {
-    "front": "\u042d\u044d",
-    "back": "\u042d \u2014 e (e), example: \u044d\u0442\u043e (eto) \u2014 pet",
+    "front": "Ьь",
+    "back": "Ь — soft sign (’), example: соль (sol’) — [no English equivalent]",
     "next_review_date": "2025-08-15",
     "repetitions": 0,
     "interval": 1,
     "ease_factor": 2.5
   },
   {
-    "front": "\u042e\u044e",
-    "back": "\u042e \u2014 yu (yu), example: \u044e\u0433 (yug) \u2014 use",
+    "front": "Ээ",
+    "back": "Э — e (e), example: это (eto) — pet",
     "next_review_date": "2025-08-15",
     "repetitions": 0,
     "interval": 1,
     "ease_factor": 2.5
   },
   {
-    "front": "\u042f\u044f",
-    "back": "\u042f \u2014 ya (ya), example: \u044f\u0431\u043b\u043e\u043a\u043e (yabloko) \u2014 yard",
+    "front": "Юю",
+    "back": "Ю — yu (yu), example: юг (yug) — use",
+    "next_review_date": "2025-08-15",
+    "repetitions": 0,
+    "interval": 1,
+    "ease_factor": 2.5
+  },
+  {
+    "front": "Яя",
+    "back": "Я — ya (ya), example: яблоко (yabloko) — yard",
     "next_review_date": "2025-08-15",
     "repetitions": 0,
     "interval": 1,

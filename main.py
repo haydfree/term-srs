@@ -14,6 +14,12 @@ QUALITY_MAP = {
 	'4': 5   # Easy: Correct response with perfect recall
 }
 
+def print_help():
+	print("Usage:")
+	print("  python main.py add	<deck_name>")
+	print("  python main.py review	<deck_name>")
+	print("  python main.py modify	<deck_name> <field> <new_value>")
+
 def clear_screen():
 	"""Clears the terminal screen."""
 	os.system('cls' if os.name == 'nt' else 'clear')
@@ -37,6 +43,23 @@ def save_deck(deck_name, deck_data):
 	filepath = get_deck_path(deck_name)
 	with open(filepath, 'w') as f:
 		json.dump(deck_data, f, indent=2)
+
+def modify_deck(deck_name, field, new_value):
+	"""Modify field of all cards in a deck."""
+	if not os.path.exists(DECK_FOLDER):
+		os.makedirs(DECK_FOLDER)
+	filepath=get_deck_path(deck_name)
+	with open(filepath, 'r') as f:
+		deck = json.load(f)
+		if field not in deck[0].keys():
+			print("<field> not in <deck>")
+			print_help()
+			sys.exit(1)
+		for entry in deck:
+			entry[field] = new_value
+			
+	with open(filepath, 'w', encoding='utf-8') as f:
+		json.dump(deck, f, ensure_ascii=False, indent=2)
 
 def review_card(card):
 	"""
@@ -143,23 +166,29 @@ def run_review_session(deck_name):
 		print("\n\nSession interrupted. Your progress so far has been saved.")
 		sys.exit(0)
 
-
 def main():
-	if len(sys.argv) < 3:
-		print("Usage:")
-		print("  python main.py add <deck_name>")
-		print("  python main.py review <deck_name>")
+	argc = len(sys.argv)+1
+	if argc <= 3:
+		print_help()
 		sys.exit(1)
 
 	command = sys.argv[1].lower()
 	deck_name = sys.argv[2]
+	field = ""
+	new_value = ""
+
+	if argc > 4:
+		field = sys.argv[3]
+		new_value = sys.argv[4]
 
 	if command == "add":
 		add_new_card(deck_name)
 	elif command == "review":
 		run_review_session(deck_name)
+	elif command == "modify":
+		modify_deck(deck_name, field, new_value)
 	else:
-		print(f"Unknown command: '{command}'")
+		print_help()
 		sys.exit(1)
 
 if __name__ == "__main__":
