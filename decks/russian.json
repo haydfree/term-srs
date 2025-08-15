@@ -1,263 +1,263 @@
 [
   {
-    "front": "Аа",
-    "back": "А — a (ah), example: аптека (apteka) — apple",
+    "front": "\u0410\u0430",
+    "back": "\u0410 \u2014 \u0430 (ah), English example: spa | Russian example: \u0434\u0430 (da = yes)",
     "next_review_date": "2025-08-15",
     "repetitions": 0,
     "interval": 1,
     "ease_factor": 2.5
   },
   {
-    "front": "Бб",
-    "back": "Б — be (b), example: брат (brat) — bat",
+    "front": "\u0411\u0431",
+    "back": "\u0411 \u2014 \u0431\u044d (beh), English example: bat | Russian example: \u0431\u043e\u043b\u044c (bol' = pain)",
     "next_review_date": "2025-08-15",
     "repetitions": 0,
     "interval": 1,
     "ease_factor": 2.5
   },
   {
-    "front": "Вв",
-    "back": "В — ve (v), example: вода (voda) — vine",
+    "front": "\u0412\u0432",
+    "back": "\u0412 \u2014 \u0432\u044d (veh), English example: van | Russian example: \u0432\u043e\u0434\u0430 (voda = water)",
     "next_review_date": "2025-08-15",
     "repetitions": 0,
     "interval": 1,
     "ease_factor": 2.5
   },
   {
-    "front": "Гг",
-    "back": "Г — ge (g), example: город (gorod) — goat",
+    "front": "\u0413\u0433",
+    "back": "\u0413 \u2014 \u0433\u044d (geh), English example: go | Russian example: \u0433\u043e\u0440\u043e\u0434 (gorod = city)",
     "next_review_date": "2025-08-15",
     "repetitions": 0,
     "interval": 1,
     "ease_factor": 2.5
   },
   {
-    "front": "Дд",
-    "back": "Д — de (d), example: дом (dom) — dog",
+    "front": "\u0414\u0434",
+    "back": "\u0414 \u2014 \u0434\u044d (deh), English example: dog | Russian example: \u0434\u043e\u043c (dom = house)",
     "next_review_date": "2025-08-15",
     "repetitions": 0,
     "interval": 1,
     "ease_factor": 2.5
   },
   {
-    "front": "Ее",
-    "back": "Е — ye (ye), example: есть (yest') — yes",
+    "front": "\u0415\u0435",
+    "back": "\u0415 \u2014 \u0435 (yeh), English example: yes | Russian example: \u0435\u0434\u0430 (yeda = food)",
     "next_review_date": "2025-08-15",
     "repetitions": 0,
     "interval": 1,
     "ease_factor": 2.5
   },
   {
-    "front": "Ёё",
-    "back": "Ё — yo (yo), example: ёлка (yolka) — yonder",
+    "front": "\u0401\u0451",
+    "back": "\u0401 \u2014 \u0451 (yo), English example: yonder | Russian example: \u0451\u0436 (yozh = hedgehog)",
     "next_review_date": "2025-08-15",
     "repetitions": 0,
     "interval": 1,
     "ease_factor": 2.5
   },
   {
-    "front": "Жж",
-    "back": "Ж — zhe (zh), example: журнал (zhurnal) — measure",
+    "front": "\u0416\u0436",
+    "back": "\u0416 \u2014 \u0436\u044d (zheh), English example: pleasure | Russian example: \u0436\u0443\u043a (zhuk = beetle)",
     "next_review_date": "2025-08-15",
     "repetitions": 0,
     "interval": 1,
     "ease_factor": 2.5
   },
   {
-    "front": "Зз",
-    "back": "З — ze (z), example: зима (zima) — zoo",
+    "front": "\u0417\u0437",
+    "back": "\u0417 \u2014 \u0437\u044d (zeh), English example: zebra | Russian example: \u0437\u0430\u043c\u043e\u043a (zamok = castle)",
     "next_review_date": "2025-08-15",
     "repetitions": 0,
     "interval": 1,
     "ease_factor": 2.5
   },
   {
-    "front": "Ии",
-    "back": "И — i (ee), example: идёт (idyot) — see",
+    "front": "\u0418\u0438",
+    "back": "\u0418 \u2014 \u0438 (ee), English example: see | Russian example: \u0438\u0434\u0435\u044f (ideya = idea)",
     "next_review_date": "2025-08-15",
     "repetitions": 0,
     "interval": 1,
     "ease_factor": 2.5
   },
   {
-    "front": "Йй",
-    "back": "Й — short i (y), example: йогурт (yogurt) — boy",
+    "front": "\u0419\u0439",
+    "back": "\u0419 \u2014 \u0439 \u043a\u0440\u0430\u0442\u043a\u043e\u0435 (ee kratkoye), English example: boy | Russian example: \u0439\u043e\u0433 (yog = yogi)",
     "next_review_date": "2025-08-15",
     "repetitions": 0,
     "interval": 1,
     "ease_factor": 2.5
   },
   {
-    "front": "Кк",
-    "back": "К — ka (k), example: книга (kniga) — cat",
+    "front": "\u041a\u043a",
+    "back": "\u041a \u2014 \u043a\u0430 (kah), English example: cat | Russian example: \u043a\u043e\u0442 (kot = cat)",
     "next_review_date": "2025-08-15",
     "repetitions": 0,
     "interval": 1,
     "ease_factor": 2.5
   },
   {
-    "front": "Лл",
-    "back": "Л — el (l), example: лампа (lampa) — lamp",
+    "front": "\u041b\u043b",
+    "back": "\u041b \u2014 \u044d\u043b (el), English example: lamp | Russian example: \u043b\u0435\u0441 (les = forest)",
     "next_review_date": "2025-08-15",
     "repetitions": 0,
     "interval": 1,
     "ease_factor": 2.5
   },
   {
-    "front": "Мм",
-    "back": "М — em (m), example: мама (mama) — mother",
+    "front": "\u041c\u043c",
+    "back": "\u041c \u2014 \u044d\u043c (em), English example: man | Russian example: \u043c\u0430\u043c\u0430 (mama = mom)",
     "next_review_date": "2025-08-15",
     "repetitions": 0,
     "interval": 1,
     "ease_factor": 2.5
   },
   {
-    "front": "Нн",
-    "back": "Н — en (n), example: нос (nos) — nose",
+    "front": "\u041d\u043d",
+    "back": "\u041d \u2014 \u044d\u043d (en), English example: net | Russian example: \u043d\u0435\u0442 (net = no)",
     "next_review_date": "2025-08-15",
     "repetitions": 0,
     "interval": 1,
     "ease_factor": 2.5
   },
   {
-    "front": "Оо",
-    "back": "О — o (o), example: окно (okno) — more",
+    "front": "\u041e\u043e",
+    "back": "\u041e \u2014 \u043e (oh), English example: more | Russian example: \u043e\u043a\u043d\u043e (okno = window)",
     "next_review_date": "2025-08-15",
     "repetitions": 0,
     "interval": 1,
     "ease_factor": 2.5
   },
   {
-    "front": "Пп",
-    "back": "П — pe (p), example: пиво (pivo) — pen",
+    "front": "\u041f\u043f",
+    "back": "\u041f \u2014 \u043f\u044d (peh), English example: pen | Russian example: \u043f\u0430\u043f\u0430 (papa = dad)",
     "next_review_date": "2025-08-15",
     "repetitions": 0,
     "interval": 1,
     "ease_factor": 2.5
   },
   {
-    "front": "Рр",
-    "back": "Р — er (r), example: река (reka) — red",
+    "front": "\u0420\u0440",
+    "back": "\u0420 \u2014 \u044d\u0440 (er), English example: red | Russian example: \u0440\u044b\u0431\u0430 (ryba = fish)",
     "next_review_date": "2025-08-15",
     "repetitions": 0,
     "interval": 1,
     "ease_factor": 2.5
   },
   {
-    "front": "Сс",
-    "back": "С — es (s), example: солнце (solntse) — sun",
+    "front": "\u0421\u0441",
+    "back": "\u0421 \u2014 \u044d\u0441 (es), English example: sun | Russian example: \u0441\u043e\u043b\u043d\u0446\u0435 (solntse = sun)",
     "next_review_date": "2025-08-15",
     "repetitions": 0,
     "interval": 1,
     "ease_factor": 2.5
   },
   {
-    "front": "Тт",
-    "back": "Т — te (t), example: торт (tort) — top",
+    "front": "\u0422\u0442",
+    "back": "\u0422 \u2014 \u0442\u044d (teh), English example: top | Russian example: \u0442\u043e\u043b\u0441\u0442\u044b\u0439 (tolstyy = fat)",
     "next_review_date": "2025-08-15",
     "repetitions": 0,
     "interval": 1,
     "ease_factor": 2.5
   },
   {
-    "front": "Уу",
-    "back": "У — u (oo), example: утка (utka) — boot",
+    "front": "\u0423\u0443",
+    "back": "\u0423 \u2014 \u0443 (oo), English example: moon | Russian example: \u0443\u043b\u0438\u0446\u0430 (ulitsa = street)",
     "next_review_date": "2025-08-15",
     "repetitions": 0,
     "interval": 1,
     "ease_factor": 2.5
   },
   {
-    "front": "Фф",
-    "back": "Ф — ef (f), example: фото (foto) — fun",
+    "front": "\u0424\u0444",
+    "back": "\u0424 \u2014 \u044d\u0444 (ef), English example: fun | Russian example: \u0444\u043e\u0442\u043e (foto = photo)",
     "next_review_date": "2025-08-15",
     "repetitions": 0,
     "interval": 1,
     "ease_factor": 2.5
   },
   {
-    "front": "Хх",
-    "back": "Х — kha (kh), example: хлеб (khleb) — loch",
+    "front": "\u0425\u0445",
+    "back": "\u0425 \u2014 \u0445\u0430 (kha), English example: loch (Scottish) | Russian example: \u0445\u043b\u0435\u0431 (khleb = bread)",
     "next_review_date": "2025-08-15",
     "repetitions": 0,
     "interval": 1,
     "ease_factor": 2.5
   },
   {
-    "front": "Цц",
-    "back": "Ц — tse (ts), example: цвет (tsvet) — cats",
+    "front": "\u0426\u0446",
+    "back": "\u0426 \u2014 \u0446\u044d (tseh), English example: pizza | Russian example: \u0446\u0435\u043d\u0430 (tsena = price)",
     "next_review_date": "2025-08-15",
     "repetitions": 0,
     "interval": 1,
     "ease_factor": 2.5
   },
   {
-    "front": "Чч",
-    "back": "Ч — che (ch), example: чай (chay) — chair",
+    "front": "\u0427\u0447",
+    "back": "\u0427 \u2014 \u0447\u044d (cheh), English example: chip | Russian example: \u0447\u0430\u0439 (chay = tea)",
     "next_review_date": "2025-08-15",
     "repetitions": 0,
     "interval": 1,
     "ease_factor": 2.5
   },
   {
-    "front": "Шш",
-    "back": "Ш — sha (sh), example: школа (shkola) — shop",
+    "front": "\u0428\u0448",
+    "back": "\u0428 \u2014 \u0448\u0430 (shah), English example: shop | Russian example: \u0448\u0430\u043f\u043a\u0430 (shapka = hat)",
     "next_review_date": "2025-08-15",
     "repetitions": 0,
     "interval": 1,
     "ease_factor": 2.5
   },
   {
-    "front": "Щщ",
-    "back": "Щ — shcha (shch), example: щука (shchuka) — fresh cheese",
+    "front": "\u0429\u0449",
+    "back": "\u0429 \u2014 \u0449\u0430 (shcha), English example: fresh cheese | Russian example: \u0449\u0438 (shchi = cabbage soup)",
     "next_review_date": "2025-08-15",
     "repetitions": 0,
     "interval": 1,
     "ease_factor": 2.5
   },
   {
-    "front": "Ъъ",
-    "back": "Ъ — hard sign (’), example: объём (obyom) — [no English equivalent]",
+    "front": "\u042a\u044a",
+    "back": "\u042a \u2014 \u0442\u0432\u0451\u0440\u0434\u044b\u0439 \u0437\u043d\u0430\u043a (tvyordyy znak = hard sign), no sound | Russian example: (used in compound words, e.g., \u043f\u043e\u0434\u044a\u0435\u0437\u0434 = entrance)",
     "next_review_date": "2025-08-15",
     "repetitions": 0,
     "interval": 1,
     "ease_factor": 2.5
   },
   {
-    "front": "Ыы",
-    "back": "Ы — y (i), example: сыры (syry) — ill",
+    "front": "\u042b\u044b",
+    "back": "\u042b \u2014 \u044b (ih), English example: ill | Russian example: \u0441\u044b\u0440 (syr = cheese)",
     "next_review_date": "2025-08-15",
     "repetitions": 0,
     "interval": 1,
     "ease_factor": 2.5
   },
   {
-    "front": "Ьь",
-    "back": "Ь — soft sign (’), example: соль (sol’) — [no English equivalent]",
+    "front": "\u042c\u044c",
+    "back": "\u042c \u2014 \u043c\u044f\u0433\u043a\u0438\u0439 \u0437\u043d\u0430\u043a (myagkiy znak = soft sign), no sound | Russian example: \u0434\u0435\u043d\u044c (den' = day)",
     "next_review_date": "2025-08-15",
     "repetitions": 0,
     "interval": 1,
     "ease_factor": 2.5
   },
   {
-    "front": "Ээ",
-    "back": "Э — e (e), example: это (eto) — pet",
+    "front": "\u042d\u044d",
+    "back": "\u042d \u2014 \u044d (eh), English example: pet | Russian example: \u044d\u0442\u043e (eto = this)",
     "next_review_date": "2025-08-15",
     "repetitions": 0,
     "interval": 1,
     "ease_factor": 2.5
   },
   {
-    "front": "Юю",
-    "back": "Ю — yu (yu), example: юг (yug) — use",
+    "front": "\u042e\u044e",
+    "back": "\u042e \u2014 \u044e (yoo), English example: you | Russian example: \u044e\u043c\u043e\u0440 (yumor = humor)",
     "next_review_date": "2025-08-15",
     "repetitions": 0,
     "interval": 1,
     "ease_factor": 2.5
   },
   {
-    "front": "Яя",
-    "back": "Я — ya (ya), example: яблоко (yabloko) — yard",
+    "front": "\u042f\u044f",
+    "back": "\u042f \u2014 \u044f (ya), English example: yard | Russian example: \u044f\u0431\u043b\u043e\u043a\u043e (yabloko = apple)",
     "next_review_date": "2025-08-15",
     "repetitions": 0,
     "interval": 1,
